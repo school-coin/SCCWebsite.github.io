@@ -2,4 +2,4 @@
 title: "Welcome to my website!"
 ---
 
-SchoolCoin
+Your Up and running!
