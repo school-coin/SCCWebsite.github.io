@@ -10,14 +10,14 @@ navbar:
     - text: "About"
       icon: fa-user 
       href: about.html
-    - text: "CV"
+    - text: "WhitePaper"
       icon: fa-file-pdf-o
       href: cv.html
     - text: "Blog"
       icon: fa-rss
       href: https://school-coin.github.io/SCCWebsite.github.io/    # CHANGE HERE 
   right:
-    - text: "Contact me"
+    - text: "Contact Us"
       icon: fa-envelope-o
       href: mailto:schoolcoinproject@gmail.com                      # CHANGE HERE 
     - text: "GitHub"
