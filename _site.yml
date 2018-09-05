@@ -22,7 +22,9 @@ navbar:
       href: mailto:schoolcoinproject@gmail.com                      # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
-      href: https://school-coin.github.io/SCCWebsite.github.io/         # CHANGE HERE 
+      href: https://school-coin.github.io/SCCWebsite.github.io/     # CHANGE HERE 
+    - text: "Discord"
+      icon: fa-discord
 output:
   html_document:
     theme: cosmo
