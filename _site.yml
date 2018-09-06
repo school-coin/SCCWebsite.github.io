@@ -27,7 +27,7 @@ navbar:
       icon: fa-discord
     - text: "Wallet"
       icon: fa fa-google-wallet
-      href: 
+      href: https://schoolcoin.site/wallet.html
 output:
   html_document:
     theme: cosmo
