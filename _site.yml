@@ -28,6 +28,9 @@ navbar:
     - text: "Wallet"
       icon: fa fa-google-wallet
       href: https://schoolcoin.site/wallet.html
+    - text: "Telegram"
+      icon: fa fa-telegram
+      href: https://telegram.com/schoolcoin
 output:
   html_document:
     theme: cosmo
