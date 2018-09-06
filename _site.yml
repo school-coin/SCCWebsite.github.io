@@ -25,6 +25,9 @@ navbar:
       href: https://school-coin.github.io/SCCWebsite.github.io/     # CHANGE HERE 
     - text: "Discord"
       icon: fa-discord
+    - text: "Wallet"
+      icon: fa fa-google-wallet
+      href: 
 output:
   html_document:
     theme: cosmo
